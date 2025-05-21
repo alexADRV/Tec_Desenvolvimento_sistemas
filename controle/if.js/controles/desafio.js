@@ -10,7 +10,7 @@ if (nota > 60) {
     console.log("reprovado");
 }
 
-let idade = 20;
+let idade = 16;
 if (idade <= 12) {
     console.log("criança");
 } else if (idade <= 18) {
